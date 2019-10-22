@@ -3,10 +3,20 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E3135E8322D49F3900F6235E /* haguruma.png in Resources */ = {isa = PBXBuildFile; fileRef = E3135E8222D49F3900F6235E /* haguruma.png */; };
+		E3135E8522D49F4D00F6235E /* haguruma.png in Resources */ = {isa = PBXBuildFile; fileRef = E3135E8422D49F4D00F6235E /* haguruma.png */; };
+		E3135E8622D49F4D00F6235E /* haguruma.png in Resources */ = {isa = PBXBuildFile; fileRef = E3135E8422D49F4D00F6235E /* haguruma.png */; };
+		E313CE79220AE71B0043E0C4 /* stone1.png in Resources */ = {isa = PBXBuildFile; fileRef = E313CE78220AE71B0043E0C4 /* stone1.png */; };
+		E313CE7D220AE82F0043E0C4 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E313CE7C220AE82F0043E0C4 /* logo.png */; };
+		E33371382355D45B005578EC /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E33371372355D45B005578EC /* 2.png */; };
+		E333713A2355D46F005578EC /* Japan.png in Resources */ = {isa = PBXBuildFile; fileRef = E33371392355D46F005578EC /* Japan.png */; };
+		E333713C2355DB4F005578EC /* 622-500x375.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E333713B2355DB4E005578EC /* 622-500x375.jpg */; };
+		E33371402355E654005578EC /* crown.png in Resources */ = {isa = PBXBuildFile; fileRef = E333713F2355E653005578EC /* crown.png */; };
+		E33371422355F711005578EC /* dark.png in Resources */ = {isa = PBXBuildFile; fileRef = E33371412355F711005578EC /* dark.png */; };
 		E33DC01921EF3B1700AC0954 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33DC01821EF3B1700AC0954 /* AppDelegate.swift */; };
 		E33DC01B21EF3B1700AC0954 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33DC01A21EF3B1700AC0954 /* ViewController.swift */; };
 		E33DC01E21EF3B1700AC0954 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33DC01C21EF3B1700AC0954 /* Main.storyboard */; };
@@ -14,6 +24,28 @@
 		E33DC02321EF3B1B00AC0954 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33DC02121EF3B1B00AC0954 /* LaunchScreen.storyboard */; };
 		E33DC02E21EF3B1C00AC0954 /* renndagameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33DC02D21EF3B1C00AC0954 /* renndagameTests.swift */; };
 		E33DC03921EF3B1C00AC0954 /* renndagameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33DC03821EF3B1C00AC0954 /* renndagameUITests.swift */; };
+		E33DC04B21F8828100AC0954 /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = E33DC04A21F8828100AC0954 /* 123.png */; };
+		E33DC0512201BEC700AC0954 /* illust2832.png in Resources */ = {isa = PBXBuildFile; fileRef = E33DC0502201BEC700AC0954 /* illust2832.png */; };
+		E33DC0552201BFC200AC0954 /* mizu.png in Resources */ = {isa = PBXBuildFile; fileRef = E33DC0542201BFC200AC0954 /* mizu.png */; };
+		E33DC0572201C05400AC0954 /* hosi.png in Resources */ = {isa = PBXBuildFile; fileRef = E33DC0562201C05300AC0954 /* hosi.png */; };
+		E347F5992201CC5F00E20E90 /* kiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E347F5982201CC5F00E20E90 /* kiViewController.swift */; };
+		E347F59B2201CCA800E20E90 /* mizuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E347F59A2201CCA800E20E90 /* mizuViewController.swift */; };
+		E34C1E69223913EB00C6A169 /* iwa.png in Resources */ = {isa = PBXBuildFile; fileRef = E34C1E68223913EA00C6A169 /* iwa.png */; };
+		E34C1E6B2239141C00C6A169 /* iwaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34C1E6A2239141C00C6A169 /* iwaViewController.swift */; };
+		E34C1E6D2239167E00C6A169 /* ki.png in Resources */ = {isa = PBXBuildFile; fileRef = E34C1E6C2239167D00C6A169 /* ki.png */; };
+		E34C1E6F223917B000C6A169 /* tkiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E34C1E6E223917B000C6A169 /* tkiViewController.swift */; };
+		E351D730228178FA005A0670 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E351D72F228178FA005A0670 /* Main.storyboard */; };
+		E362024B2310D07F0037C822 /* saikoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E362024A2310D07F0037C822 /* saikoViewController.swift */; };
+		E3620250231535090037C822 /* 456.png in Resources */ = {isa = PBXBuildFile; fileRef = E362024F231535080037C822 /* 456.png */; };
+		E36A923C220AF0E7008E46BC /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36A923B220AF0E7008E46BC /* StartViewController.swift */; };
+		E36A923E220AF44E008E46BC /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = E36A923D220AF44E008E46BC /* logo1.png */; };
+		E37FB2EE228ACD3100504D0E /* kiButton.png in Resources */ = {isa = PBXBuildFile; fileRef = E37FB2ED228ACD3100504D0E /* kiButton.png */; };
+		E37FB2F0228ACD3F00504D0E /* stoneButton.png in Resources */ = {isa = PBXBuildFile; fileRef = E37FB2EF228ACD3F00504D0E /* stoneButton.png */; };
+		E37FB2F2228ACD4C00504D0E /* mizuButton.png in Resources */ = {isa = PBXBuildFile; fileRef = E37FB2F1228ACD4C00504D0E /* mizuButton.png */; };
+		E3AEF05E235744ED00E63CD4 /* logo_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = E3AEF05D235744ED00E63CD4 /* logo_transparent.png */; };
+		E3BA2B532230078300108699 /* 5403.png in Resources */ = {isa = PBXBuildFile; fileRef = E3BA2B522230078300108699 /* 5403.png */; };
+		E3BA2B552230080800108699 /* hiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3BA2B542230080800108699 /* hiViewController.swift */; };
+		E3E5A5BD235F0B630021FAE3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3E5A5BC235F0B630021FAE3 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,19 +66,50 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E33DC01521EF3B1700AC0954 /* renndagame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = renndagame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3135E8222D49F3900F6235E /* haguruma.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = haguruma.png; path = ../../../Desktop/haguruma.png; sourceTree = "<group>"; };
+		E3135E8422D49F4D00F6235E /* haguruma.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = haguruma.png; path = ../../Desktop/haguruma.png; sourceTree = "<group>"; };
+		E313CE78220AE71B0043E0C4 /* stone1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stone1.png; sourceTree = "<group>"; };
+		E313CE7C220AE82F0043E0C4 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../Desktop/logo.png; sourceTree = "<group>"; };
+		E33371372355D45B005578EC /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E33371392355D46F005578EC /* Japan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Japan.png; sourceTree = "<group>"; };
+		E333713B2355DB4E005578EC /* 622-500x375.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "622-500x375.jpg"; sourceTree = "<group>"; };
+		E333713F2355E653005578EC /* crown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crown.png; sourceTree = "<group>"; };
+		E33371412355F711005578EC /* dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dark.png; sourceTree = "<group>"; };
 		E33DC01821EF3B1700AC0954 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E33DC01A21EF3B1700AC0954 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E33DC01D21EF3B1700AC0954 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E33DC01F21EF3B1B00AC0954 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E33DC02221EF3B1B00AC0954 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E33DC02421EF3B1B00AC0954 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E33DC02921EF3B1C00AC0954 /* renndagameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = renndagameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E33DC02D21EF3B1C00AC0954 /* renndagameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = renndagameTests.swift; sourceTree = "<group>"; };
 		E33DC02F21EF3B1C00AC0954 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E33DC03421EF3B1C00AC0954 /* renndagameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = renndagameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E33DC03821EF3B1C00AC0954 /* renndagameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = renndagameUITests.swift; sourceTree = "<group>"; };
 		E33DC03A21EF3B1C00AC0954 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E33DC04A21F8828100AC0954 /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
+		E33DC0502201BEC700AC0954 /* illust2832.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = illust2832.png; sourceTree = "<group>"; };
+		E33DC0542201BFC200AC0954 /* mizu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mizu.png; sourceTree = "<group>"; };
+		E33DC0562201C05300AC0954 /* hosi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hosi.png; sourceTree = "<group>"; };
+		E347F5982201CC5F00E20E90 /* kiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = kiViewController.swift; sourceTree = "<group>"; usesTabs = 0; };
+		E347F59A2201CCA800E20E90 /* mizuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mizuViewController.swift; sourceTree = "<group>"; };
+		E34C1E68223913EA00C6A169 /* iwa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iwa.png; sourceTree = "<group>"; };
+		E34C1E6A2239141C00C6A169 /* iwaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iwaViewController.swift; sourceTree = "<group>"; };
+		E34C1E6C2239167D00C6A169 /* ki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ki.png; sourceTree = "<group>"; };
+		E34C1E6E223917B000C6A169 /* tkiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tkiViewController.swift; sourceTree = "<group>"; };
+		E351D72F228178FA005A0670 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		E362024A2310D07F0037C822 /* saikoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = saikoViewController.swift; sourceTree = "<group>"; };
+		E362024F231535080037C822 /* 456.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 456.png; path = ../../Desktop/456.png; sourceTree = "<group>"; };
+		E36A923B220AF0E7008E46BC /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		E36A923D220AF44E008E46BC /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo1.png; sourceTree = "<group>"; };
+		E37D12BC2355C66B0063DA13 /* renndagame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = renndagame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E37D12BD2355C66B0063DA13 /* renndagameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = renndagameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E37D12BE2355C66B0063DA13 /* renndagameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = renndagameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E37FB2ED228ACD3100504D0E /* kiButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiButton.png; sourceTree = "<group>"; };
+		E37FB2EF228ACD3F00504D0E /* stoneButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stoneButton.png; sourceTree = "<group>"; };
+		E37FB2F1228ACD4C00504D0E /* mizuButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mizuButton.png; sourceTree = "<group>"; };
+		E3AEF05D235744ED00E63CD4 /* logo_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_transparent.png; sourceTree = "<group>"; };
+		E3BA2B522230078300108699 /* 5403.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5403.png; sourceTree = "<group>"; };
+		E3BA2B542230080800108699 /* hiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hiViewController.swift; sourceTree = "<group>"; };
+		E3E5A5BC235F0B630021FAE3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,33 +137,60 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E3135E7E22D1A9E400F6235E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			path = ..;
+			sourceTree = "<group>";
+		};
 		E33DC00C21EF3B1700AC0954 = {
 			isa = PBXGroup;
 			children = (
 				E33DC01721EF3B1700AC0954 /* renndagame */,
 				E33DC02C21EF3B1C00AC0954 /* renndagameTests */,
 				E33DC03721EF3B1C00AC0954 /* renndagameUITests */,
-				E33DC01621EF3B1700AC0954 /* Products */,
+				E33DC04A21F8828100AC0954 /* 123.png */,
+				E3BA2B522230078300108699 /* 5403.png */,
+				E34C1E6C2239167D00C6A169 /* ki.png */,
+				E362024F231535080037C822 /* 456.png */,
+				E33DC0502201BEC700AC0954 /* illust2832.png */,
+				E33DC0542201BFC200AC0954 /* mizu.png */,
+				E313CE7C220AE82F0043E0C4 /* logo.png */,
+				E34C1E68223913EA00C6A169 /* iwa.png */,
+				E33DC0562201C05300AC0954 /* hosi.png */,
+				E3135E8422D49F4D00F6235E /* haguruma.png */,
+				E313CE78220AE71B0043E0C4 /* stone1.png */,
+				E36A923D220AF44E008E46BC /* logo1.png */,
+				E33371372355D45B005578EC /* 2.png */,
+				E33371392355D46F005578EC /* Japan.png */,
+				E333713F2355E653005578EC /* crown.png */,
+				E33371412355F711005578EC /* dark.png */,
+				E3AEF05D235744ED00E63CD4 /* logo_transparent.png */,
+				E37D12BC2355C66B0063DA13 /* renndagame.app */,
+				E37D12BD2355C66B0063DA13 /* renndagameTests.xctest */,
+				E37D12BE2355C66B0063DA13 /* renndagameUITests.xctest */,
 			);
-			sourceTree = "<group>";
-		};
-		E33DC01621EF3B1700AC0954 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E33DC01521EF3B1700AC0954 /* renndagame.app */,
-				E33DC02921EF3B1C00AC0954 /* renndagameTests.xctest */,
-				E33DC03421EF3B1C00AC0954 /* renndagameUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		E33DC01721EF3B1700AC0954 /* renndagame */ = {
 			isa = PBXGroup;
 			children = (
+				E37FB2EC228ACCF000504D0E /* images */,
 				E33DC01821EF3B1700AC0954 /* AppDelegate.swift */,
+				E3E5A5BC235F0B630021FAE3 /* GoogleService-Info.plist */,
+				E3135E7E22D1A9E400F6235E /* Frameworks */,
 				E33DC01A21EF3B1700AC0954 /* ViewController.swift */,
 				E33DC01C21EF3B1700AC0954 /* Main.storyboard */,
+				E34C1E6A2239141C00C6A169 /* iwaViewController.swift */,
+				E3BA2B542230080800108699 /* hiViewController.swift */,
+				E347F59A2201CCA800E20E90 /* mizuViewController.swift */,
+				E347F5982201CC5F00E20E90 /* kiViewController.swift */,
+				E34C1E6E223917B000C6A169 /* tkiViewController.swift */,
+				E362024A2310D07F0037C822 /* saikoViewController.swift */,
 				E33DC01F21EF3B1B00AC0954 /* Assets.xcassets */,
+				E36A923B220AF0E7008E46BC /* StartViewController.swift */,
 				E33DC02121EF3B1B00AC0954 /* LaunchScreen.storyboard */,
 				E33DC02421EF3B1B00AC0954 /* Info.plist */,
 			);
@@ -110,6 +200,7 @@
 		E33DC02C21EF3B1C00AC0954 /* renndagameTests */ = {
 			isa = PBXGroup;
 			children = (
+				E351D72F228178FA005A0670 /* Main.storyboard */,
 				E33DC02D21EF3B1C00AC0954 /* renndagameTests.swift */,
 				E33DC02F21EF3B1C00AC0954 /* Info.plist */,
 			);
@@ -119,10 +210,22 @@
 		E33DC03721EF3B1C00AC0954 /* renndagameUITests */ = {
 			isa = PBXGroup;
 			children = (
+				E333713B2355DB4E005578EC /* 622-500x375.jpg */,
+				E3135E8222D49F3900F6235E /* haguruma.png */,
 				E33DC03821EF3B1C00AC0954 /* renndagameUITests.swift */,
 				E33DC03A21EF3B1C00AC0954 /* Info.plist */,
 			);
 			path = renndagameUITests;
+			sourceTree = "<group>";
+		};
+		E37FB2EC228ACCF000504D0E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				E37FB2EF228ACD3F00504D0E /* stoneButton.png */,
+				E37FB2F1228ACD4C00504D0E /* mizuButton.png */,
+				E37FB2ED228ACD3100504D0E /* kiButton.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,7 +245,7 @@
 			);
 			name = renndagame;
 			productName = renndagame;
-			productReference = E33DC01521EF3B1700AC0954 /* renndagame.app */;
+			productReference = E37D12BC2355C66B0063DA13 /* renndagame.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E33DC02821EF3B1C00AC0954 /* renndagameTests */ = {
@@ -160,7 +263,7 @@
 			);
 			name = renndagameTests;
 			productName = renndagameTests;
-			productReference = E33DC02921EF3B1C00AC0954 /* renndagameTests.xctest */;
+			productReference = E37D12BD2355C66B0063DA13 /* renndagameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		E33DC03321EF3B1C00AC0954 /* renndagameUITests */ = {
@@ -178,7 +281,7 @@
 			);
 			name = renndagameUITests;
 			productName = renndagameUITests;
-			productReference = E33DC03421EF3B1C00AC0954 /* renndagameUITests.xctest */;
+			productReference = E37D12BE2355C66B0063DA13 /* renndagameUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -193,6 +296,11 @@
 				TargetAttributes = {
 					E33DC01421EF3B1700AC0954 = {
 						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.GameCenter.iOS = {
+								enabled = 0;
+							};
+						};
 					};
 					E33DC02821EF3B1C00AC0954 = {
 						CreatedOnToolsVersion = 10.0;
@@ -205,7 +313,7 @@
 				};
 			};
 			buildConfigurationList = E33DC01021EF3B1700AC0954 /* Build configuration list for PBXProject "renndagame" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -213,7 +321,7 @@
 				Base,
 			);
 			mainGroup = E33DC00C21EF3B1700AC0954;
-			productRefGroup = E33DC01621EF3B1700AC0954 /* Products */;
+			productRefGroup = E33DC00C21EF3B1700AC0954;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -229,9 +337,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E33DC0552201BFC200AC0954 /* mizu.png in Resources */,
+				E36A923E220AF44E008E46BC /* logo1.png in Resources */,
 				E33DC02321EF3B1B00AC0954 /* LaunchScreen.storyboard in Resources */,
+				E3620250231535090037C822 /* 456.png in Resources */,
+				E3135E8522D49F4D00F6235E /* haguruma.png in Resources */,
+				E313CE79220AE71B0043E0C4 /* stone1.png in Resources */,
+				E33DC0572201C05400AC0954 /* hosi.png in Resources */,
+				E33DC04B21F8828100AC0954 /* 123.png in Resources */,
+				E313CE7D220AE82F0043E0C4 /* logo.png in Resources */,
+				E37FB2F0228ACD3F00504D0E /* stoneButton.png in Resources */,
+				E333713A2355D46F005578EC /* Japan.png in Resources */,
 				E33DC02021EF3B1B00AC0954 /* Assets.xcassets in Resources */,
+				E34C1E69223913EB00C6A169 /* iwa.png in Resources */,
+				E3AEF05E235744ED00E63CD4 /* logo_transparent.png in Resources */,
 				E33DC01E21EF3B1700AC0954 /* Main.storyboard in Resources */,
+				E37FB2F2228ACD4C00504D0E /* mizuButton.png in Resources */,
+				E34C1E6D2239167E00C6A169 /* ki.png in Resources */,
+				E3BA2B532230078300108699 /* 5403.png in Resources */,
+				E33371382355D45B005578EC /* 2.png in Resources */,
+				E3E5A5BD235F0B630021FAE3 /* GoogleService-Info.plist in Resources */,
+				E37FB2EE228ACD3100504D0E /* kiButton.png in Resources */,
+				E33DC0512201BEC700AC0954 /* illust2832.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +366,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E351D730228178FA005A0670 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +374,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E33371402355E654005578EC /* crown.png in Resources */,
+				E333713C2355DB4F005578EC /* 622-500x375.jpg in Resources */,
+				E3135E8322D49F3900F6235E /* haguruma.png in Resources */,
+				E3135E8622D49F4D00F6235E /* haguruma.png in Resources */,
+				E33371422355F711005578EC /* dark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +389,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E34C1E6B2239141C00C6A169 /* iwaViewController.swift in Sources */,
+				E34C1E6F223917B000C6A169 /* tkiViewController.swift in Sources */,
+				E36A923C220AF0E7008E46BC /* StartViewController.swift in Sources */,
+				E3BA2B552230080800108699 /* hiViewController.swift in Sources */,
 				E33DC01B21EF3B1700AC0954 /* ViewController.swift in Sources */,
 				E33DC01921EF3B1700AC0954 /* AppDelegate.swift in Sources */,
+				E347F5992201CC5F00E20E90 /* kiViewController.swift in Sources */,
+				E347F59B2201CCA800E20E90 /* mizuViewController.swift in Sources */,
+				E362024B2310D07F0037C822 /* saikoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,16 +572,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = CW436HFM98;
 				INFOPLIST_FILE = renndagame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.renndagame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.takane.renndagame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = rendagame;
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -449,16 +593,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = CW436HFM98;
 				INFOPLIST_FILE = renndagame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.renndagame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.takane.renndagame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = rendagame;
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
